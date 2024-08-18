@@ -1,0 +1,13 @@
+{
+  "name": "3js-game",
+  "scripts": {
+    "run local": "npx vite"
+  },
+  "dependencies": {
+    "oimo": "^1.0.9",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  }
+}
